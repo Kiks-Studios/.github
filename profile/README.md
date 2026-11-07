@@ -7,5 +7,3 @@ a media, design, development and ai studio from bengaluru. one team shoots the c
 - instagram: [@kiks.studios](https://instagram.com/kiks.studios)
 - linkedin: [kiks-studios](https://www.linkedin.com/company/kiks-studios/)
 - start a project: [kiksstudios.com/start](https://www.kiksstudios.com/start)
-
-founded by [shivansh pandey](https://shivansh.life). most of what we build lives in private repos here.
